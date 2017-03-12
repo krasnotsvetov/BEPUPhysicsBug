@@ -32,4 +32,11 @@
 
 3th and 4th classes are playground with scene that produces bug. (Use "1" and "2" on keyboard to switch them)
 
+#2nd bug
 
+
+1)Set height 1.5 meter
+
+2)Enter the hole
+
+3)Try jump
