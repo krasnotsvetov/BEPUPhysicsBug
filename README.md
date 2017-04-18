@@ -1,6 +1,8 @@
 # BEPUphysicsBug
 
 
+Related to https://forum.bepuentertainment.com/viewtopic.php?f=4&t=2469
+
 1) Clone project
 
 
